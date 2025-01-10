@@ -1,3 +1,6 @@
+# theme = "Red Planet"
 background = #000021
 background-opacity = 0.5
 window-decoration = false
+keybind = ctrl+t=new_tab
+keybind = ctrl+q=close_surface
