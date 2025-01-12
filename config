@@ -7,3 +7,4 @@ keybind = ctrl+q=close_surface
 
 # macOS only 
 keybind = global:ctrl+alt+t=toggle_quick_terminal
+background-blur-radius = 20
